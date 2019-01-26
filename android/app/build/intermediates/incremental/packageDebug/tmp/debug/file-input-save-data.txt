@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Jan 25 20:54:45 BRT 2019
+#Fri Jan 25 21:42:53 BRT 2019
 5.base=/home/enilton/Documentos/repo_react_native/RN_navigation_exemplo/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 42.base=/home/enilton/Documentos/repo_react_native/RN_navigation_exemplo/android/app/build/intermediates/transforms/mergeJniLibs/debug/0
 22.path=lib/armeabi-v7a/libreactnativejni.so

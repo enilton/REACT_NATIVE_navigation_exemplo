@@ -1,4 +1,4 @@
-#Fri Jan 25 20:54:45 BRT 2019
+#Fri Jan 25 21:42:52 BRT 2019
 base.0=/home/enilton/Documentos/repo_react_native/RN_navigation_exemplo/android/app/build/intermediates/transforms/dexMerger/debug/0
 path.0=classes.dex
 renamed.0=classes.dex
